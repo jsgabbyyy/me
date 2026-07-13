@@ -1,9 +1,11 @@
-
+  
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsgabbyyy&abbreviated=true&label=ponies+who+visited!&color=blueviolet&style=plastic" alt="Profile Views">
+</div>
 <p align="center">
   <img src="https://pixelsafari.neocities.org/dividers/glitterpurple.gif" alt="divider lol">
 </p>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=jsgabbyyy)
    <b>i have to code this entire thing using html, huh? </b>
  </div><br>
 <p align="center">whatevs i can do this! anyways, hi! i'm gabby, and welcome to my github page!! i don't go on here for things other than vita homebrew, and you're probably here because of ponytown! hii!! anyways, i'm also into scratch coding and html! my favourite 2 games are omori and stardew valley! also a bunch of rhythm games too! i love manga and i'm a proud himejoshi! am i allowed to call myself multifandom? anyways, check out my neocities, the link is on the side! thanks for visiting, everyone!
@@ -41,10 +43,8 @@
 
 <img width="250" height="56" alt="tumblr_8935b8de92b5ad8d02be7dfb25baec17_72be19bc_250" src="https://github.com/user-attachments/assets/0b77d005-bbd0-4291-9025-94062b4d14d0" />
 <img width="400" height="74" alt="image" src="https://github.com/user-attachments/assets/9b009c20-78b4-4b6c-9591-deff98d402de" />
-<img width="250" height="56" alt="tumblr_a7b8c1bf8625a98243ba44b13ebcb8b9_f3dcec72_250" src="https://github.com/user-attachments/assets/330c9011-9ec0-426c-8b13-d9bc20fcc08b" />
 <br>
 
 
 <p align="center">
   <img src="https://pixelsafari.neocities.org/dividers/glitterpurple.gif" alt="divider lol">
-</p>
