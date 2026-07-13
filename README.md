@@ -3,6 +3,7 @@
   <img src="https://pixelsafari.neocities.org/dividers/glitterpurple.gif" alt="divider lol">
 </p>
 <div align="center">
+![](https://komarev.com/ghpvc/?username=jsgabbyyy)
    <b>i have to code this entire thing using html, huh? </b>
  </div><br>
 <p align="center">whatevs i can do this! anyways, hi! i'm gabby, and welcome to my github page!! i don't go on here for things other than vita homebrew, and you're probably here because of ponytown! hii!! anyways, i'm also into scratch coding and html! my favourite 2 games are omori and stardew valley! also a bunch of rhythm games too! i love manga and i'm a proud himejoshi! am i allowed to call myself multifandom? anyways, check out my neocities, the link is on the side! thanks for visiting, everyone!
